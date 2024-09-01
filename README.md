@@ -25,7 +25,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 1. Clone o código fonte
 
    ```bash
-    git clone git@github.com:wellingtonrsdev/Desafio--Objetos-e-Modulos-JS.git
+    git clone git@github.com:wellingtonrsdev/Desafio_Objetos_e_Modulos_JS.git
    ```
 
 3. Abra o projeto em sua IDE de preferência(utilizado o Visual Studio Code).
